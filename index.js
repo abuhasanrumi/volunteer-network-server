@@ -48,7 +48,7 @@ client.connect(err => {
       const newRegister = req.body;
       registrationCollection.insertOne(newRegister)
       .then(result => {
-        console.log(result)
+        console.log("user registered")
       })
     })
 
