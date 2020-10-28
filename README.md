@@ -14,8 +14,8 @@ It is a interactive web application built with MERN Stack technologies for non p
 - Use of Context API to store data
 - Firebase Authentication
 - Use of Mangoose and Express to store data in MongoDB
-- Fully responsive landing page. 
-- Interactivity of showing service and feedback directly to landing page after adding
+- Fully interactive landing page. 
+- Any newly added event will directly appear at the event page
 
 ## Technology and Dependencies 
 - REACT.JS
